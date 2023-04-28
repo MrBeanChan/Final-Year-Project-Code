@@ -1,3 +1,0 @@
-First preprocessing
-
-then lstm
